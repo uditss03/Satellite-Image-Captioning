@@ -11,10 +11,12 @@ Almost a fifth of the Amazon rainforest has been cut down in the last 40 years.T
  
 ![filled](https://user-images.githubusercontent.com/34382779/50384941-7e295100-06f2-11e9-9d2d-36321ffc2655.jpg)
 <br />
-PREREQUISITE:<br />
-1. Anaconda PYTHON<br />
-2. Tensorflow<br />
-3. Keras<br />
-4. Download encoder and decoder weights from https://drive.google.com/file/d/1wNlh8Ds6p3Hu4SnJoqSkL1_qaVB3UaVb/view<br />
-At last run file run_this.py
+To run Satellite-Image-Captioning:<br />
+1. Download Anaconda python<br />
+2. Install Tensorflow<br />
+3. Install Keras<br />
+4. Download this repo.
+5. Download encoder weights form https://drive.google.com/open?id=1ArRWH6lIXqiPdlt9vpveqeboiLOVbKaF and decoder weights from https://drive.google.com/file/d/1wNlh8Ds6p3Hu4SnJoqSkL1_qaVB3UaVb/view and save in same folder.<br />
+6. Run run_this.py
+
 
