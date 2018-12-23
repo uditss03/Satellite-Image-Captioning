@@ -15,4 +15,6 @@ PREREQUISITE:<br />
 1. Anaconda PYTHON<br />
 2. Tensorflow<br />
 3. Keras<br />
-4. Download encoder and decoder weights from https://drive.google.com/file/d/1wNlh8Ds6p3Hu4SnJoqSkL1_qaVB3UaVb/view
+4. Download encoder and decoder weights from https://drive.google.com/file/d/1wNlh8Ds6p3Hu4SnJoqSkL1_qaVB3UaVb/view<br />
+At last run file run_this.py
+
