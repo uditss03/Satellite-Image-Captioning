@@ -1,4 +1,4 @@
-# Satellite-Image-Captioning - Applied Research Paper
+# Satellite-Image-Captioning
 Recent improvements in satellite imaging technology
 have given rise to new opportunities for more accurate
 quantification of both broad and minute changes on Earth,
